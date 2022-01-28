@@ -16,7 +16,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.jpg')
 ---
 
 # Software Architecture
-Software architecture# is an "intellectually graspable" abstraction of a complex system. This abstraction provides a number of benefits:
+*Software architecture* is an "intellectually graspable" abstraction of a complex system. This abstraction provides a number of benefits:
   - It gives a basis for analysis of software systems' behavior before the system has been built.
   - It provides a basis for re-use of elements and decisions.
   - It facilitates communication with stakeholders, contributing to a system that better fulfills their needs.
@@ -48,7 +48,7 @@ Architectural styles are reusable 'packages' of design decisions and constraints
 Software design involves problem-solving and planning a software solution. This includes both a low-level component and algorithm design and a high-level, architecture design.
 
 
-- A *design pattern* is the re-usable form of a solution to a design problem. (The idea was first introduced by the architect Christopher Alexander in 1970s)
+- A *design pattern* is the re-usable form of a solution to a design problem. (The idea was first introduced by the architect Christopher Alexander in the 1970s)
 
 
 ---
@@ -75,11 +75,11 @@ Documenting a pattern requires explaining why a particular situation causes prob
 
 # Cloud Computing
 
-Cloud computing is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user. Based on *distributed computing* which refers to sharing the computing workload among many computers across a network. 
+Cloud computing is the on-demand availability of computer system resources, especially data storage (cloud storage) and computing power, without direct active management by the user. It is based on *distributed computing* which refers to sharing the computing workload among many computers across a network. 
 - Ability to pay for only the resources you use
 - Ability to scale up and back as needed
-- Available for differnet types of use: public, private, community, hybrid...
-- Delivery Models: Software as A Service, Infrastrucutre as a Service, Platform as a Service
+- Available for different types of use: public, private, community, hybrid...
+- Delivery Models: Software as a Service, Infrastrucutre as a Service, Platform as a Service
 
 ---
 
