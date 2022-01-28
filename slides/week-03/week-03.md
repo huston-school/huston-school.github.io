@@ -79,7 +79,7 @@ Cloud computing is the on-demand availability of computer system resources, espe
 - Ability to pay for only the resources you use
 - Ability to scale up and back as needed
 - Available for different types of use: public, private, community, hybrid...
-- Delivery Models: Software as a Service, Infrastrucutre as a Service, Platform as a Service
+- Delivery Models: Software as a Service, Infrastructure as a Service, Platform as a Service
 
 ---
 
